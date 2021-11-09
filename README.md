@@ -1,2 +1,2 @@
 # webmonolith
-Simple Django monolith app for CI/CD pipeline
+Simple Django monolith app for CI/CD pipeline.
